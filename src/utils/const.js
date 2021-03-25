@@ -47,10 +47,12 @@ export {
 };
 
 export const AVATAR =
-  'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTtc69JxHNcmN1ETpMUX4dozAgAN6iPjWalQ&usqp=CAU'; // Temp avatar
+  'http://p0.itc.cn/images01/20201223/a63edf0fccac4bf39a214b4430f282a3.jpeg'; // Temp avatar
 export const NAVS = [
-  { text: 'Blog', link: 'https://github.com/yihong0618/running_page' },
-  { text: 'About', link: 'https://github.com/yihong0618/running_page' },
+  { text: 'Blog', link: 'https://github.com/zxcsjf/running_page' },
+  { text: 'About', link: 'https://github.com/zxcsjf' },
+  { text: 'Bilibili', link: 'https://space.bilibili.com/329679173' },
+  { text: 'Twitter', link: 'https://twitter.com/zxc44976691' },
 ];
 
 const nike = 'rgb(224,237,94)';
